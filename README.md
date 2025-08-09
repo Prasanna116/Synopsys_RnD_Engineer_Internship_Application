@@ -1,7 +1,7 @@
 # Synopsys_RnD_Engineer_Internship_Application
 
 ## 👋 About Me
-!(Profile Picture) [ <img width="80" height="184" alt="Ai_Photo_generated" src="https://github.com/user-attachments/assets/ae21b5eb-7865-4305-937b-f96f3b0fbcb1" />
+<img width="100" height="200" alt="Ai_Photo_generated" src="https://github.com/user-attachments/assets/ae21b5eb-7865-4305-937b-f96f3b0fbcb1" />
 
 I am Prasanna Venkatesh S, a recent B.Tech graduate in Electronics and Communication (ECE) Engineering from Vellore Institute of Technology with a strong passion for Digital Design, RTL, and Computer Architecture. 
 Throughout the 4 years of my undergraduate, I have explored each sub-domains of ECE through research projects and internships and I found myself most interested in VLSI and Computer Architecture. I believe in building things from scratch and learning by doing — which aligns with the high-impact culture at Synopsys.
@@ -13,6 +13,8 @@ Throughout the 4 years of my undergraduate, I have explored each sub-domains of 
 1. In the initial two years of my B.Tech ECE at VIT, I focused on RF communication and high-frequency hardware integration, where I conducted extensive research on ‘Miniaturized Implantable Antennas’ to address the growing need for affordable and efficient health monitoring systems. I designed a novel **2.4 GHz implantable antenna aimed for biotelemetry applications** simulated its performance, fabricated the design, and successfully tested it in an anechoic chamber. This research was both technically challenging and rewarding, culminating in a research paper that I have submitted for publication.
 
 2. Later, my focus shifted towards VLSI and semiconductor design, where I conducted research in '_**In-Memory Computing (IMC) Architecture using 8T SRAM Array for AI Applications**_' , which aims to enhance computational efficiency by reducing latency and energy use. I developed a novel 8T SRAM cell array architecture enabling in-memory logic operations, designed a 256-bit SRAM array in _Cadence Virtuoso_, and created innovative sensing schemes (Skewed Inverter and Multi-Logic SA), validated under PVT and Monte Carlo simulations.
+
+
 
 I have authored four research papers (three under review), including one on this work, showcasing my consistency in contributing to cutting-edge research. My  ability to take a design from concept to tape-out-ready verification—combining strong technical skills with methodical problem-solving—makes me an ideal candidate for your VLSI R&D team, where I can contribute meaningfully from day one.
 
@@ -45,11 +47,13 @@ I have authored four research papers (three under review), including one on this
 
 I am eager to bring my research-driven approach, hands-on design experience, and commitment to learning to Synopsys’ R&D Engineering team to contribute to impactful projects from day one. I bring not just skills, but curiosity, discipline, and the drive to deliver results — exactly what Synopsys expects from its R&D engineers.
 
+## 📬 Contact  
+- **Email:** prasannavenkk@gmail.com  
+- **LinkedIn:** [linkedin.com/in/prasanna](https://www.linkedin.com/in/prasannav23)  
+- **Resume:** [📄 View My Resume]()   
 
 
-## 💡 Why Synopsys?
-Synopsys isn’t just a company — it’s where engineering excellence meets innovation.  
-I want to contribute to groundbreaking solutions while sharpening my expertise under the best mentors in the semiconductor industry.
+
 
 ---
 
