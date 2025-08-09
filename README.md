@@ -1,7 +1,7 @@
 # Synopsys_RnD_Engineer_Internship_Application
 
 ## 👋 About Me
-<img width="200" height="200" alt="Ai_Photo_generated" src="https://github.com/user-attachments/assets/ae21b5eb-7865-4305-937b-f96f3b0fbcb1" />
+<img width="150" height="250" alt="Ai_Photo_generated" src="https://github.com/user-attachments/assets/ae21b5eb-7865-4305-937b-f96f3b0fbcb1" />
 
 I am Prasanna Venkatesh S, a recent B.Tech graduate in Electronics and Communication (ECE) Engineering from Vellore Institute of Technology with a strong passion for Digital Design, RTL, and Computer Architecture. 
 During my undergraduate, I have explored each sub-domains of ECE through research projects and internships and I found myself most interested in VLSI and Computer Architecture. I believe in building things from scratch and learning by doing — which aligns with the high-impact culture at Synopsys.
