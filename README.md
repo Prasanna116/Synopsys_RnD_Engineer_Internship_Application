@@ -33,8 +33,8 @@ I have authored four research papers (three under review), including one on this
 
 3. **APB Communication Protocol Design** (_Ongoing Project_) :
 
--Currently developing an AMBA APB-based communication system, implementing a master interface connected to three slave peripherals – Memory Register, GPIO, and UART modules. Designed Verilog RTL for master–slave handshaking, address decoding, and peripheral interfacing. 
--Integrated UART for full-duplex TX/RX communication and verified functionality through simulation. This project demonstrates strong skills in digital protocol design, peripheral integration, and SoC subsystem development.
+- Currently developing an AMBA APB-based communication system, implementing a master interface connected to three slave peripherals – Memory Register, GPIO, and UART modules. Designed Verilog RTL for master–slave handshaking, address decoding, and peripheral interfacing. 
+- Integrated UART for full-duplex TX/RX communication and verified functionality through simulation. This project demonstrates strong skills in digital protocol design, peripheral integration, and SoC subsystem development.
 
 ## 🚀 Relevant Skills
 
@@ -45,9 +45,10 @@ I have authored four research papers (three under review), including one on this
 - **Communication Protocols:** UART, SPI, I²C, AMBA(APB ) 
 
 
-I am eager to bring my research-driven approach, hands-on design experience, and commitment to learning to Synopsys’ R&D Engineering team to contribute to impactful projects from day one. I bring not just skills, but curiosity, discipline, and the drive to deliver results — exactly what Synopsys expects from its R&D engineers.
+ I am eager to bring my research-driven approach, hands-on design experience, and commitment to learning to Synopsys’ R&D Engineering team to contribute to impactful projects from day one. I bring not just skills, but curiosity, discipline, and the drive to deliver results — exactly what Synopsys expects from its R&D engineers.
 
 ## 📬 Contact  
+- **Mobile Number:** +91 9840037169
 - **Email:** prasannavenkk@gmail.com  
 - **LinkedIn:** [linkedin.com/in/prasanna](https://www.linkedin.com/in/prasannav23)  
 - **Resume:** [📄 View My Resume]()   
