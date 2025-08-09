@@ -40,7 +40,7 @@ I have authored **four research papers** (three under review), including one on 
 
 - **Programming & Scripting:** Python, Java, C, Embedded C, MATLAB  
 - **Hardware Description:** Verilog HDL, SystemVerilog (RTL design & verification)  
-- **EDA & Simulation Tools:** Intel Quartus Prime, Cadence Virtuoso, LTspice  
+- **EDA & Simulation Tools:** Intel Quartus Prime, Cadence Virtuoso, LTspice , Icarus Verilog, EDA Playground
 - **Embedded Development Environments:** Keil uVision, ARM Keil Studio, Microchip Studio, Atmel Start  
 - **Communication Protocols:** UART, SPI, I²C, AMBA(APB ) 
 
