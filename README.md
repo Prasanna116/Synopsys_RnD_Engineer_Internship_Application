@@ -51,7 +51,7 @@ I have authored four research papers (three under review), including one on this
 - **Mobile Number:** +91 9840037169
 - **Email:** prasannavenkk@gmail.com  
 - **LinkedIn:** [linkedin.com/in/prasanna](https://www.linkedin.com/in/prasannav23)  
-- **Resume:** [📄 View My Resume]()   
+- **Resume:** [📄 View My Resume](https://github.com/Prasanna116/Synopsys_RnD_Engineer_Internship_Application/blob/main/PrasannaVenkatesh_Resume2025.pdf)   
 
 
 
